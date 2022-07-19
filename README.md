@@ -18,7 +18,7 @@
 
 此固件包含功能
 
-+ `Https访问` ：因为个人有外网服务需求，所以 `luci` 界面使用了 `nginx-ssl` [更多](#Nginx管理)
++ `Https访问` ：因为个人有外网服务需求，所以 `luci` 界面使用了 `nginx-ssl` [更多](#Nginx-管理)
 
 + `Openssh`：此固件并没有使用选择使用 `dropbear` 而是选择 `OpenSSH` [更多](#OpenSSH)
 
