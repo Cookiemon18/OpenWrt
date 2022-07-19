@@ -46,9 +46,9 @@
 
 + `Aria2`：[更多](#Aria2)
 
-+ `Open可拉斯`
++ `OpenClash`
 
-+ `帕斯Wall`
++ `PassWall`
 
 + **此固件并没有开启 `IPV6` 的支持（因为我用不到）**
 
